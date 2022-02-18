@@ -1,10 +1,13 @@
 ### Hi! 👋
 
 <img src="https://github.com/christiangonre/christiangonre/blob/master/img/hello.gif" alt="background" />
-- 📍 Remote working from Madrid, Spain
-- 🔭 I’m currently working on Sngular as Cloud Engineer
-- 🌱 Learning everyday about DevOps technologies and enhancing my Python skills.
-- 💬 Let´s talk on  <a href="https://www.linkedin.com/in/chrisgonre">Linkedin</a>
+📍 Remote working from Madrid, Spain
+
+🔭 I’m currently working on Sngular as Cloud Engineer
+
+🌱 Learning everyday about DevOps technologies and enhancing my Python skills.
+
+💬 Let´s talk on  <a href="https://www.linkedin.com/in/chrisgonre">Linkedin</a>
 
 <!--
 **christiangonre/christiangonre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
