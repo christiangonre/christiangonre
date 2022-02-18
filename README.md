@@ -1,6 +1,7 @@
 ### Hi! 👋
 
-<img src="https://github.com/christiangonre/christiangonre/blob/master/img/hello.gif" alt="background" />
+![](img/hello.gif)
+
 📍 Remote working from Madrid, Spain
 
 🔭 I’m currently working on Sngular as Cloud Engineer
