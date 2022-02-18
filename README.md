@@ -4,11 +4,11 @@
 
 📍 Remote working from Madrid, Spain
 
-🔭 I’m currently working on Sngular as Cloud Engineer
+🔭 I’m currently working on [Sngular](https://www.sngular.com/) as Cloud Engineer | DevOps
 
 🌱 Learning everyday about DevOps technologies and enhancing my Python skills.
 
-💬 Let´s talk on  <a href="https://www.linkedin.com/in/chrisgonre">Linkedin</a>
+💬 Let´s talk on [Linkedin](https://www.linkedin.com/in/chrisgonre)
 
 <!--
 **christiangonre/christiangonre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
