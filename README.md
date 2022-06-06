@@ -4,7 +4,7 @@
 
 📍 Remote working from Madrid, Spain
 
-🔭 I’m currently working on [Sngular](https://www.sngular.com/) as Cloud Engineer | DevOps
+🔭 I’m currently working on [Intruder](https://www.intruder.io/) as Cloud Engineer | DevOps
 
 🌱 Learning everyday about DevOps technologies and enhancing my Python skills.
 
